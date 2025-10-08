@@ -21,7 +21,7 @@ interface RecognitionPanelProps {
 // Simulated authorized users database
 const AUTHORIZED_USERS = [
   { id: "1", name: "Jean Dupont", type: "person", image: "/professional-man.jpg" },
-  { id: "2", name: "Marie Martin", type: "person", image: "/professional-woman-diverse.png" },
+  { id: "2", name: "Mari Martin", type: "person", image: "/professional-woman-diverse.png" },
   { id: "3", name: "ABC-123-XY", type: "vehicle", image: "/generic-license-plate.png" },
   { id: "4", name: "DEF-456-ZW", type: "vehicle", image: "/car-license-plate.jpg" },
 ]
